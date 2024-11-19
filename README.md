@@ -1,2 +1,2 @@
 # Devops-Journey
-Esse repositório é destinado a registrar estudos e laboratórios que fiz a fim de aprender mais sobre Cloud Computing e todo o universo de DevOps
+This repository is intended to document the studies and labs I've done to learn more about Cloud Computing and the entire DevOps universe.
